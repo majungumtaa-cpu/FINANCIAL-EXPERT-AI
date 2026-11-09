@@ -1,0 +1,23 @@
+{
+  "name": "zyvo-ai",
+  "version": "1.0.0",
+  "description": "ZYVO AI - Advanced Multi-Purpose AI Assistant with Voice, Share & Document Export",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.2",
+    "groq-sdk": "^0.3.3",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1",
+    "mammoth": "^1.8.0",
+    "docx": "^8.5.0",
+    "pdfkit": "^0.14.0",
+    "exceljs": "^4.4.0",
+    "pptxgenjs": "^3.12.0"
+  }
+}

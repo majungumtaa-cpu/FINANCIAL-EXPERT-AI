@@ -1,0 +1,12 @@
+[
+  {
+    "category": "programming",
+    "keywords": ["code", "programming", "coding", "programu", "function", "script", "algorithm", "html", "css", "javascript", "python", "java", "php", "react", "node"],
+    "response": "Please specify what you want to build. Example: 'Give me HTML code for a simple login page' or 'Write a Python calculator'."
+  },
+  {
+    "category": "general",
+    "keywords": ["help", "advice", "msaada", "habari", "hello", "hi"],
+    "response": "ZYVO AI is ready. Ask me anything: programming, science, business, or general knowledge."
+  }
+]
